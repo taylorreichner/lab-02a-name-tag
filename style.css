@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+body {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding 10px;
+}
+
+.box {
+    border: ;
+    height: 170px;
+    width: 400px;
+    background-color: white;
+    padding: 0px;
+    align-self: center;
+    position: relative;
+    bottom: 60px;
+}
+header {
+    background-color:red;
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.taylor {
+    font-size: 4rem;
+    position: relative;
+    top: 50px
+
+    
+}
+.hello {
+    font-size: 3rem;
+    height: 10px;
+    padding-top: 0px;
+    color: white;
+    border-radius: 1px;
+    position: relative;
+    bottom: 40px;
+
+}
+p {
+    color: white;
+    position: relative;
+    bottom: 50px;
+}
