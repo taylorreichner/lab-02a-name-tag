@@ -48,3 +48,9 @@ p {
     position: relative;
     bottom: 50px;
 }
+.buttons {
+    position: relative;
+    top: 10px;
+    background-color: rgb(221, 186, 31);
+    color: blueviolet;
+}
